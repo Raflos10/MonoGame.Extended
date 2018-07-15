@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="isometric" renderorder="right-down" width="16" height="16" tilewidth="128" tileheight="64" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="city-tileset.tsx"/>
+ <tileset firstgid="133" source="buildings-tileset.tsx"/>
+ <layer name="ground" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0bsOAUEUBuCzhIZK61JpJHQKSgaFElFISHQSjRcQj0Dn1vN6aFwq/8n+G1vY02qc5MtkJnNm/5lNiMgDsrCHI6zBQYXjVaJrCg2YQTdE10Ywh4XR34MdVKEFJ3jCBeqw4VpU6Z4XnNm/5VzPaDL7zehfhvIGdwnu0Oc4Nvod82veIdzJ8/xsmqlm9Mewr8TcwV30HxygAHkoG/2abyKf99Z5nPMV5HhGVGXEf/u0+P+7DQPqMH/S6Hch+q3UF0Wj/1+/rTd+BiVg
+  </data>
+ </layer>
+ <layer name="level1" width="16" height="16" offsetx="0" offsety="-12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMdCOxfwMxCyMDwxwk/hsC+t8B8XYoeyoQL4GaAQJfgPgfhe4jBJ4zINz7Dsp+TqIZb6E0K9Dda4D0aiq5bRSMAloDAGa8DyI=
+  </data>
+ </layer>
+ <layer name="level2" width="16" height="16" offsetx="0" offsety="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFnxlIA11IdDeJeqkBniOxv1Bo1n4gfkyhGaNgFAwlAACWlAYQ
+  </data>
+ </layer>
+</map>
